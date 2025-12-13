@@ -1,1 +1,18 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="global.json" />
+    <File Path="README.md" />
+    <File Path="RESULTS.md" />
+  </Folder>
+  <Project Path="src/AsyncMemoryVsSpan/AsyncMemoryVsSpan.csproj" Id="aa94a721-5f9d-46ee-8dc6-5bce8e79c42f" />
+  <Project Path="src/BoxingUnboxingImpact/BoxingUnboxingImpact.csproj" Id="1f632b4f-5d9d-486c-808f-8f5724c97c09" />
+  <Project Path="src/GarbageCollectorGenerations/GarbageCollectorGenerations.csproj" Id="f5ec51e0-4231-4936-a58c-6914c5f592a8" />
+  <Project Path="src/InParameterOptimization/InParameterOptimization.csproj" Id="cc201c1c-b23d-4160-81f1-bdcfec09708c" />
+  <Project Path="src/RefOutInComparison/RefOutInComparison.csproj" Id="8d3c4ed9-ffb3-48b5-b16c-4db743069d2a" />
+  <Project Path="src/SpanAndRefStructPerformance/SpanAndRefStructPerformance.csproj" Id="f9941281-7e84-4595-a148-69880255da30" />
+  <Project Path="src/StackallocBenchmark/StackallocBenchmark.csproj" Id="14797ced-8b7f-494a-bf08-9bf020d2bb30" />
+  <Project Path="src/StackVsHeapDemo/StackVsHeapDemo.csproj" Id="8aecd103-6730-4006-98a3-b26260701686" />
+  <Project Path="src/StructVsClassBestPractices/StructVsClassBestPractices.csproj" Id="30222d18-b99a-48e6-9ae8-95c998a562c8" />
+  <Project Path="src/ValueVsReferencePerformance/ValueVsReferencePerformance.csproj" Id="382dfe53-986c-45e6-96b3-f87f11840cc5" />
+</Solution>
