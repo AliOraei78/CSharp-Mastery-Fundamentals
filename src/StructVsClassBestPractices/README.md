@@ -1,4 +1,4 @@
-﻿# Structure Vs Class
+﻿# Structure Vs Class Benchmark
 
 ## نتایج بنچمارک
 
