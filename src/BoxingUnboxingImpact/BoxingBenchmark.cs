@@ -10,7 +10,7 @@ public class BoxingBenchmark
     [Benchmark]
     public void TestList()
     {
-        List<int> list = new List<int>();
+        List<int> list = new List<int>(Operations);
         int sum = 0;
         for (int i = 0; i < Operations; i++)
         {
@@ -23,7 +23,7 @@ public class BoxingBenchmark
     [Benchmark]
     public void TestArrayList()
     {
-        ArrayList arrayList = new ArrayList();
+        ArrayList arrayList = new ArrayList(Operations);
         int sum = 0;
         for (int i = 0; i < Operations; i++)
         {
