@@ -1,6 +1,4 @@
 ﻿using BenchmarkDotNet.Attributes;
-using BenchmarkDotNet.Running;
-using Microsoft.Diagnostics.Tracing.Parsers.JScript;
 
 [MemoryDiagnoser]
 public class ValueVsReferenceBenchmark

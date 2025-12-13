@@ -1,5 +1,4 @@
 ﻿using BenchmarkDotNet.Attributes;
-using BenchmarkDotNet.Running;
 
 [MemoryDiagnoser]
 public class StructClassBestUseBenchmark

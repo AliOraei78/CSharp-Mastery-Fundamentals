@@ -1,6 +1,4 @@
 ﻿using BenchmarkDotNet.Attributes;
-using BenchmarkDotNet.Running;
-using System.Runtime.InteropServices;
 
 [MemoryDiagnoser]
 public class StackHeapBenchmark
