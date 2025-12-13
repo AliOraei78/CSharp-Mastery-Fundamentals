@@ -1,7 +1,7 @@
 ﻿using BenchmarkDotNet.Attributes;
 
 [MemoryDiagnoser]
-public class ValueVsReferenceBenchmark
+public class SpanAndRefStructBenchmark
 {
     private const int Operations = 100_000_000;
 
