@@ -1,7 +1,7 @@
 # CSharp Mastery Fundamentals
 
-تمرین‌های C#
+C# practices
 
-ساختار:
-- src/: پروژه‌های اصلی
-- RESULTS.md: مقایسه همه بنچمارک‌ها
+Structure:
+- src/: main projects
+- RESULTS.md: compare all benchmarks
